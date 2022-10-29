@@ -1,3 +1,3 @@
-# dottlewither.github.io
+# flowers
 
-dottle 的博客，用来存放鲜花。
+鲜花冷藏柜。艳丽的鲜花需要冷藏，否则很快便铺满灰尘。
