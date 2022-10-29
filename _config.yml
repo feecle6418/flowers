@@ -1,12 +1,12 @@
-remote_theme: DottleWither/cayman
-title: dottle's flowers
-description: "heaven and earth"
+theme: cayman
+title: unknown flowers
+description: "orz"
 markdown: kramdown
 categories: [post]
 defaults:
   -
     scope:
-      path: post
+      path: flowers/post
     values:
       layout: post
       mathjax: true
