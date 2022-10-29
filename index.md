@@ -1,4 +1,4 @@
-# 鲜花冷柜
+# 冷柜
 
 <ul>
 {% assign sorted_pages = site.pages | sort: "title" | reverse %}
@@ -9,5 +9,5 @@
 {% endfor %}
 </ul>
  
-不仅冷藏，还冷冻……
+不仅冷藏，还冷冻。
  
